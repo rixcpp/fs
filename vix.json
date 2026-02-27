@@ -1,0 +1,24 @@
+{
+  "name": "fs",
+  "namespace": "rix",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Modern lightweight filesystem utilities for C++.",
+  "keywords": [
+    "cpp",
+    "filesystem",
+    "path",
+    "file",
+    "directory",
+    "rix"
+  ],
+  "repository": "https://github.com/rixcpp/rix",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "Gaspardkirira"
+    }
+  ]
+}
